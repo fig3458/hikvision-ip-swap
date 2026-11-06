@@ -57,3 +57,8 @@ python swap_gui.py
 | hikvision-channel-inventory | 多机通道盘点 / 跨机查重 |
 | hikvision-channel-order | 按表格把监控加到指定 D 号 |
 | hikvision-camera-reset | SADP 搜索 / 恢复出厂 |
+
+## 许可证
+
+[MIT](LICENSE)
+

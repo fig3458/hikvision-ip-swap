@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+_tools/
+*.log
+.DS_Store
+Thumbs.db
+*.exe
+*.tsv
+*.csv
+*.spec.bak
